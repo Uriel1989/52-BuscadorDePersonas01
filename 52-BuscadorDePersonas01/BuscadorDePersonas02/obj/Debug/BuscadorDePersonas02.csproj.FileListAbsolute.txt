@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\BuscadorDePersonas02\BuscadorDePersonas02\bin\Debug\BuscadorDePersonas02.exe
+C:\Users\tauro\Desktop\BuscadorDePersonas02\BuscadorDePersonas02\bin\Debug\BuscadorDePersonas02.pdb
+C:\Users\tauro\Desktop\BuscadorDePersonas02\BuscadorDePersonas02\obj\Debug\BuscadorDePersonas02.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\BuscadorDePersonas02\BuscadorDePersonas02\obj\Debug\BuscadorDePersonas02.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\BuscadorDePersonas02\BuscadorDePersonas02\obj\Debug\BuscadorDePersonas02.exe
+C:\Users\tauro\Desktop\BuscadorDePersonas02\BuscadorDePersonas02\obj\Debug\BuscadorDePersonas02.pdb
